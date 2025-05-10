@@ -13,7 +13,8 @@ Inspired by the “Moneyball” philosophy of Billy Beane, this project examines
 | File Name                              | Description                                                                 |
 |----------------------------------------|-----------------------------------------------------------------------------|
 | `baseball.csv`                         | Cleaned dataset from Kaggle (1962–2012)                                     |
-| `project_proposal_dataset.csv`         | Final merged dataset with scraped home runs data                            |
+| `project_proposal_dataset.csv`         | Merged dataset with early home run data                                     |
+| `final_project_dataset.csv`            | Fully cleaned, final dataset with all features used in modeling             |
 | `attendance_df.csv`                    | Team-level total home attendance figures scraped from The Baseball Cube     |
 | `homerun_df.csv`                       | Season-level home run data scraped from Baseball Reference                  |
 | `project_final_code.ipynb`             | Final Jupyter Notebook with full analysis and models                        |
